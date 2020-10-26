@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+venv/
+train.csv
+test.csv
+gender_submission.csv
+sym_scratchpad_ds.ipynb
