@@ -3,4 +3,5 @@ venv/
 train.csv
 test.csv
 gender_submission.csv
-sym_scratchpad_ds.ipynb
+svm_scratchpad_ds.ipynb
+svm_submissions.csv
